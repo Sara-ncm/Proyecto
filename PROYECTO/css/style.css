@@ -1,0 +1,14 @@
+body{
+    background-image: url('/img/fondo.jpg');
+    
+}
+h1{
+    font-size: 48px;
+}
+p{
+    font-size: 24px;
+}
+ul{
+    font-size: 24px;
+}
+
